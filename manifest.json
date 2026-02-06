@@ -1,0 +1,22 @@
+
+{
+  "name": "Stream Music Distribution",
+  "short_name": "StreamMusic",
+  "description": "Distribuição musical profissional para o mercado global e africano.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3659/3659784.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3659/3659784.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

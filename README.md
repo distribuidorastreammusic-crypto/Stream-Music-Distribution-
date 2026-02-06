@@ -1,11 +1,27 @@
-<div align="center">
+# Stream Music Distribution 🎵
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Plataforma profissional de distribuição musical para artistas independentes, focada no mercado de Angola e global.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Tecnologias
+- **React 19**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **Lucide Icons**
+- **Recharts** (Gráficos)
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 📦 Como rodar localmente
+1. Clone o repositório.
+2. Instale as dependências: `npm install`.
+3. Inicie o servidor de desenvolvimento: `npm run dev`.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🌍 Deploy na Vercel
+Este projeto está configurado para deploy automático na Vercel. 
+- O arquivo `vercel.json` gerencia o roteamento de Single Page Application (SPA).
+- O arquivo `vite.config.ts` cuida da compilação de produção.
 
-</div>
+## 🔐 Acesso Administrativo
+Para acessar o **Painel Master** (Moderação), utilize o número de telefone configurado no arquivo `Login.tsx` (Ex: 957729023).
+
+---
+Desenvolvido para Ibrahim Rabiu - Stream Music Distribution.
